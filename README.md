@@ -1,1 +1,2 @@
-# android_vendor_amazon_karnak
+Vendor Directory for Karnak and Mt8163 Devices
+
